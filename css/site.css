@@ -1,0 +1,53 @@
+/* Font */
+@import url("https://fonts.googleapis.com/css2?family=Rubik+Moonrocks&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+body {
+  text-align: center;
+  background-color: rgb(5, 27, 46);
+}
+
+/* Imagem topo */
+h1 {
+  text-align: center;
+  margin: 0;
+  background: none;
+}
+
+/* Menu */
+h2 {
+  word-spacing: 230px;
+  font-family: "Rubik Moonrocks", cursive;
+
+  font-size: 30px;
+  border-bottom: solid rgb(0, 0, 0) 10px;
+  border-top: solid rgb(0, 0, 0) 10px;
+  padding: 1px;
+}
+a {
+  color: rgb(255, 255, 255);
+  inline-size: none;
+  text-decoration: none;
+}
+
+.video {
+  background-color: rgb(5, 27, 46);
+  margin: 0px 20px 30px 20px;
+  padding: 20px;
+  padding-bottom: 80%;
+  position: relative;
+}
+
+.video > iframe {
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  right: 0%;
+  width: 100%;
+  height: 50%;
+}
