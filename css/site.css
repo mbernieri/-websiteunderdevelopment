@@ -1,15 +1,12 @@
 /* Font */
-@import url("https://fonts.googleapis.com/css2?family=Rubik+Moonrocks&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bangers&family=Bungee+Spice&family=Rubik+Dirt&display=swap");
 
 * {
   margin: 0;
-  padding: 0;
-  border: 0;
 }
 
 body {
-  text-align: center;
-  background-color: rgb(5, 39, 66);
+  background-color: rgb(5, 41, 71);
 }
 
 /* Imagem topo */
@@ -25,16 +22,16 @@ img {
 
 /* Menu */
 h2 {
+  text-align: center;
   word-spacing: 230px;
-  font-family: "Rubik Moonrocks", cursive;
-
-  font-size: 30px;
-  border-bottom: solid rgb(0, 0, 0) 10px;
-  border-top: solid rgb(0, 0, 0) 10px;
-  padding: 1px;
+  font-family: "Bungee Spice", cursive;
+  color: white;
+  font-size: 29px;
+  border-top: double rgb(0, 0, 0) 10px;
+  border-bottom: double rgb(0, 0, 0) 10px;
 }
 a {
-  color: rgb(255, 255, 255);
+  background-color: rgb(26, 22, 22);
   inline-size: none;
   text-decoration: none;
 }
