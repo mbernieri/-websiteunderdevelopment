@@ -12,7 +12,6 @@ body {
 /* Imagem topo */
 h1 {
   text-align: center;
-  margin: 0;
   background: none;
 }
 img {
@@ -31,11 +30,12 @@ h2 {
   border-bottom: double rgb(0, 0, 0) 10px;
 }
 a {
-  margin-right: 45px;
-  text-align: center;
   background-color: rgb(26, 22, 22);
   inline-size: none;
   text-decoration: none;
+}
+ul {
+  padding-left: 0;
 }
 
 .video {
