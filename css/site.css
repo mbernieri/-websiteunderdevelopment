@@ -23,7 +23,6 @@ img {
 /* Menu */
 h2 {
   text-align: center;
-  padding-right: 40px;
   word-spacing: 230px;
   font-family: "Bungee Spice", cursive;
   color: white;
@@ -32,6 +31,8 @@ h2 {
   border-bottom: double rgb(0, 0, 0) 10px;
 }
 a {
+  margin-right: 45px;
+  text-align: center;
   background-color: rgb(26, 22, 22);
   inline-size: none;
   text-decoration: none;
