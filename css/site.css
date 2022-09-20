@@ -27,6 +27,8 @@ h2 {
   font-family: "Bungee Spice", cursive;
   color: white;
   font-size: 29px;
+  outline: solid rgb(158, 148, 12) 1px;
+
   border-top: double rgb(0, 0, 0) 10px;
   border-bottom: double rgb(0, 0, 0) 10px;
   border-radius: 14px;
