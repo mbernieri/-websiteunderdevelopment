@@ -1,12 +1,16 @@
 /* Font */
-@import url("https://fonts.googleapis.com/css2?family=Bangers&family=Bungee+Spice&family=Rubik+Dirt&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Anton&display=swap");
 
 * {
+  padding: 0;
   margin: 0;
 }
 
 body {
   background-color: rgb(5, 41, 71);
+
+  padding: 0;
+  margin: 0;
 }
 
 /* Imagem topo */
@@ -21,27 +25,29 @@ img {
 }
 
 /* Menu */
-h2 {
+.menu {
   text-align: center;
   word-spacing: 230px;
-  font-family: "Bungee Spice", cursive;
+  font-family: "Anton", sans-serif;
   color: white;
-  font-size: 29px;
-  outline: solid rgb(158, 148, 12) 1px;
-
+  font-size: 28px;
+  outline: solid white 2px;
   border-top: double rgb(0, 0, 0) 10px;
   border-bottom: double rgb(0, 0, 0) 10px;
   border-radius: 14px;
 }
 a {
-  background-color: rgb(26, 22, 22);
-  inline-size: none;
+  margin: 3px;
+  display: inline-block;
+  border-radius: 17px;
+  width: 140px;
+  height: auto;
+  background-image: linear-gradient(to right, orange, black);
   text-decoration: none;
-}
-ul {
-  padding-left: 0;
+  color: rgb(255, 255, 255);
 }
 
+/* Video */
 .video {
   background-color: none;
   margin: 0px 20px 30px 20px;
