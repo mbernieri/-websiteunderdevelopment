@@ -4,17 +4,18 @@
 * {
   padding: 0;
   margin: 0;
+  box-sizing: border-box;
 }
 
 body {
-  background-color: rgb(5, 41, 71);
-
-  padding: 0;
-  margin: 0;
+  background-image: url("../imagens/fundo.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
 }
 
 /* Imagem topo */
-h1 {
+header {
   margin-top: -6px;
   text-align: center;
   background: none;
@@ -35,6 +36,7 @@ img {
   border-top: double rgb(0, 0, 0) 10px;
   border-bottom: double rgb(0, 0, 0) 10px;
   border-radius: 14px;
+  background-color: black;
 }
 a {
   margin: 3px;
