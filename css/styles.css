@@ -9,10 +9,8 @@
 
 body {
   background-image: url("../imagens/fundo.jpg");
-  background-size: cover;
+  background-size: 100vw 122%;
   background-position: center;
-  height: 100%;
-  width: 100%;
 }
 
 /* Imagem topo */
