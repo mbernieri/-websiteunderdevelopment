@@ -47,3 +47,31 @@ a {
   text-decoration: none;
   color: rgb(255, 255, 255);
 }
+
+.container1 {
+  margin-top: 80px;
+  display: flex;
+  justify-content: space-around;
+}
+.container2 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.Produto1 {
+  border: solid rgba(0, 0, 0, 0.5) 10px;
+}
+
+.Produto2 {
+  border: solid rgba(0, 0, 0, 0.5) 10px;
+}
+
+.Produto3 {
+  border: solid rgba(0, 0, 0, 0.5) 10px;
+}
+
+.Produto4 {
+  border: solid rgba(0, 0, 0, 0.5) 10px;
+}
