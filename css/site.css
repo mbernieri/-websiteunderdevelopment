@@ -11,7 +11,6 @@ body {
   background-image: url("../imagens/fundo.jpg");
   background-size: cover;
   background-position: center;
-  background-attachment: fixed;
 }
 
 /* Imagem topo */
@@ -33,10 +32,10 @@ img {
   color: white;
   font-size: 28px;
   outline: solid white 2px;
-  border-top: double rgb(0, 0, 0) 10px;
-  border-bottom: double rgb(0, 0, 0) 10px;
+  border-top: solid rgb(0, 0, 0) 5px;
+  border-bottom: solid rgb(0, 0, 0) 5px;
   border-radius: 14px;
-  background-color: black;
+  background-color: rgba(0, 0, 0, 0.5);
 }
 a {
   margin: 3px;
