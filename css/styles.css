@@ -26,16 +26,11 @@ img {
 
 /* Menu */
 .menu {
-  text-align: center;
-  text-decoration: none;
-  font-family: "Anton", sans-serif;
-  color: white;
-  font-size: 28px;
-  outline: solid white 2px;
   border-top: solid rgb(0, 0, 0) 5px;
   border-bottom: solid rgb(0, 0, 0) 5px;
   border-radius: 14px;
   background-color: rgba(0, 0, 0, 0.5);
+  outline: solid white 2px;
 }
 
 li {
@@ -45,13 +40,16 @@ li {
 }
 
 a {
+  text-decoration: none;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-family: "Anton", sans-serif;
+  font-size: 28px;
   margin: 3px;
   border-radius: 17px;
   width: 140px;
   height: auto;
   background-image: linear-gradient(to right, #434343 0%, black 100%);
-  text-decoration: none;
-  color: rgb(255, 255, 255);
 }
 
 a:hover {
