@@ -90,16 +90,36 @@ a:hover {
 
 .Produto1 {
   border: solid rgba(0, 0, 0, 0.5) 10px;
+  position: relative;
 }
 
 .Produto2 {
   border: solid rgba(0, 0, 0, 0.5) 10px;
+  position: relative;
 }
 
 .Produto3 {
   border: solid rgba(0, 0, 0, 0.5) 10px;
+  position: relative;
 }
 
 .Produto4 {
   border: solid rgba(0, 0, 0, 0.5) 10px;
+  position: relative;
+}
+
+.overley {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  opacity: 0;
+  transition: 0.5s;
+}
+
+.overley:hover {
+  opacity: 0.5;
+  cursor: pointer;
 }
