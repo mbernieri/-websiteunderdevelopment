@@ -8,6 +8,12 @@
 }
 
 body {
+  background: rgb(10, 16, 65);
+  background: linear-gradient(
+    0deg,
+    rgba(10, 16, 65, 1) 0%,
+    rgba(13, 109, 113, 1) 100%
+  );
   background-image: url("../imagens/fundo.jpg");
   background-size: 100vw 122%;
   background-position: center;
