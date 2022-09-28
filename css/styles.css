@@ -50,10 +50,12 @@ a {
   width: 140px;
   height: auto;
   background-image: linear-gradient(to right, #434343 0%, black 100%);
+  transition: 0.9s;
 }
 
 a:hover {
   color: black;
+  text-shadow: 0 0 15px rgb(42, 154, 206);
   background: linear-gradient(
       to bottom,
       rgba(255, 255, 255, 0.15) 0%,
