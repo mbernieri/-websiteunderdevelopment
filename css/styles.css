@@ -8,15 +8,11 @@
 }
 
 body {
-  background: rgb(10, 16, 65);
-  background: linear-gradient(
-    0deg,
-    rgba(10, 16, 65, 1) 0%,
-    rgba(13, 109, 113, 1) 100%
-  );
-  background-image: url("../imagens/fundo.jpg");
-  background-size: 100vw 122%;
+  background: rgb(112, 96, 96);
+  background-image: url("../imagens/Grey-website-background.png");
+  background-size: cover;
   background-position: center;
+  background-attachment: fixed;
 }
 
 /* Imagem topo */
@@ -45,7 +41,7 @@ li {
   flex-wrap: wrap;
 }
 
-a {
+li a {
   text-decoration: none;
   text-align: center;
   color: rgb(255, 255, 255);
@@ -59,7 +55,7 @@ a {
   transition: 0.9s;
 }
 
-a:hover {
+li a:hover {
   color: black;
   text-shadow: 0 0 15px rgb(42, 154, 206);
   background: linear-gradient(
@@ -122,4 +118,13 @@ a:hover {
 .overley:hover {
   opacity: 0.5;
   cursor: pointer;
+}
+
+.whats {
+  position: fixed;
+  width: 60px;
+  height: 60px;
+  bottom: 10px;
+  right: 10px;
+  z-index: 9999;
 }
