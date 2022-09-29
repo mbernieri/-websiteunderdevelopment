@@ -7,6 +7,7 @@
   box-sizing: border-box;
 }
 
+/* Fundo */
 body {
   background: rgb(112, 96, 96);
   background-image: url("../imagens/Grey-website-background.png");
@@ -75,6 +76,7 @@ li a:hover {
   background-blend-mode: multiply, multiply;
 }
 
+/* Produtos */
 .container1 {
   margin-top: 80px;
   display: flex;
@@ -123,11 +125,21 @@ li a:hover {
   cursor: pointer;
 }
 
+/* Botões ação bottom */
 .whats {
   position: fixed;
   width: 60px;
   height: 60px;
   bottom: 10px;
   right: 10px;
+  z-index: 9999;
+}
+
+.voltaraotopo {
+  position: fixed;
+  width: 60px;
+  height: 60px;
+  bottom: 10px;
+  left: 10px;
   z-index: 9999;
 }
