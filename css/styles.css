@@ -1,5 +1,6 @@
 /* Font */
 @import url("https://fonts.googleapis.com/css2?family=Anton&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,500&display=swap");
 
 * {
   padding: 0;
@@ -78,6 +79,7 @@ li a:hover {
 
 /* Produtos */
 .container1 {
+  width: 100%;
   margin-top: 80px;
   display: flex;
   justify-content: space-around;
@@ -118,11 +120,27 @@ li a:hover {
   background-color: black;
   opacity: 0;
   transition: 0.5s;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .overley:hover {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   opacity: 0.5;
   cursor: pointer;
+}
+
+.vejamais {
+  font-family: "Raleway", sans-serif;
+  font-size: max(21px, 2vw);
+  text-align: center;
+  text-decoration: none;
+  color: white;
+  text-transform: uppercase;
+  border: solid white 3px;
 }
 
 /* Botões ação bottom */
