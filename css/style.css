@@ -1,6 +1,5 @@
 /* Font */
 @import url("https://fonts.googleapis.com/css2?family=Anton&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,500&display=swap");
 
 * {
   padding: 0;
@@ -79,14 +78,13 @@ li a:hover {
 
 /* Produtos */
 .container1 {
-  width: 100%;
   margin-top: 80px;
   display: flex;
   justify-content: space-around;
 }
+
 .container2 {
   margin-top: 20px;
-  margin-bottom: 20px;
   display: flex;
   justify-content: space-around;
 }
@@ -134,7 +132,6 @@ li a:hover {
 }
 
 .vejamais {
-  font-family: "Raleway", sans-serif;
   font-size: max(21px, 2vw);
   text-align: center;
   text-decoration: none;
@@ -143,21 +140,33 @@ li a:hover {
   border: solid white 3px;
 }
 
-/* Botões ação bottom */
+/* Action bottom */
 .whats {
   position: fixed;
   width: 60px;
   height: 60px;
-  bottom: 10px;
-  right: 10px;
+  bottom: 15px;
+  right: 15px;
   z-index: 9999;
 }
 
+/* Rodapé */
+footer {
+  display: flex;
+  align-items: flex-end;
+  margin: 150px 60px 15px 15px;
+  flex-wrap: wrap;
+}
+
 .voltaraotopo {
-  position: fixed;
+  margin-right: 25px;
   width: 60px;
   height: 60px;
   bottom: 10px;
-  left: 10px;
-  z-index: 9999;
+}
+
+.siteilustrativo {
+  margin-left: 10px;
+  font-weight: bold;
+  margin-top: 10px;
 }
