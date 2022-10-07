@@ -8,11 +8,11 @@ O projeto terá todas as páginas (início, produtos, contato, sobre) desenvolvi
 
 Se encontra atualmente apenas com html e css puro.
 
-- Pretendo introduzir o Media Queries nas páginas para ficar de acordo com as Typical Device Breakpoints. Junto criarei menu hamburguer para otimizar visualização e responsividade em telas menores.
+- Pretendo introduzir o Media Queries nas páginas para ficar de acordo com as Typical Device Breakpoints. Junto criarei o menu hamburguer para otimizar a visualização e responsividade em telas menores.
 
-- Página de produtos tenho o plano de fazer toda em grid com sidebar e cards animados.
+- Página de produtos vou estruturar com grid, criar sidebar e cards animados.
 
-- Após será implementado Java Scipt e outras tecnologias como Boodstrap, React etc...
+- Após será implementado Java Script e outras tecnologias como Bootstrap, React etc...
 
 - Ao final do projeto quero integrar um banco de dados hospedando em plataforma que permita.
 
