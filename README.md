@@ -14,7 +14,7 @@ Se encontra atualmente apenas com html e css puro.
 
 - Após será emplementado Java Scipt e outras tecnologias como Boodstrao, React etc...
 
-OBS: Projeto pessoal de autoria total minha, está sendo desenvolvido com calma para servir também como portifólio. 
+OBS: Projeto pessoal de autoria total minha, pondo eu prática meu aprendizado e criatividade, está sendo desenvolvido com calma para servir também como portifólio. 
 
 
 
