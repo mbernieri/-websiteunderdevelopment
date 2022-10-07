@@ -1,6 +1,6 @@
-#MB TRAJE STORE
+![head](https://user-images.githubusercontent.com/107652331/194654815-2f604f8e-fa4e-4f20-b1b7-1893852e08b1.jpg)
 
-> Status: Developing
+> Status: Developing 👷
 
 Projeto site de loja virtual em construção, totalmente criado por mim, desde o código, fotos, logo e marca.
 
