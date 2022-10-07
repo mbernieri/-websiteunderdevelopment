@@ -12,7 +12,7 @@ Se encontra atualmente apenas com html e css puro.
 
 - Página de produtos tenho o plano de fazer toda em grid com sidebar e cards animados.
 
-- Após será emplementado Java Scipt e outras tecnologias como Boodstrap, React etc...
+- Após será implementado Java Scipt e outras tecnologias como Boodstrap, React etc...
 
 - Ao final do projeto quero integrar um banco de dados hospedando em plataforma que permita.
 
