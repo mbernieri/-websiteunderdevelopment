@@ -1,7 +1,8 @@
 ![head](https://user-images.githubusercontent.com/107652331/194654815-2f604f8e-fa4e-4f20-b1b7-1893852e08b1.jpg)
 
+[![Blog](https://img.shields.io/website?label=P%C3%A1gina%20do%20projeto&style=for-the-badge&up_color=blue&up_message=clique%20aqui&url=https%3A%2F%2Fmbernieri.github.io%2Fprojectunderconstruction%2F)](https://mbernieri.github.io/projectunderconstruction/)
 <a href="https://github.com/mbernieri/projectunderconstruction/blob/main/LICENSE" target="_blank"> 
-        <img src="https://img.shields.io/github/license/mbernieri/projectunderconstruction" alt="license" /> </a>
+  <img src="https://img.shields.io/github/license/mbernieri/projectunderconstruction" alt="license" /> </a>
 
 
 ### > Status: Developing 👷
@@ -23,7 +24,10 @@ Se encontra atualmente apenas com html e css puro.
 OBS: Projeto pessoal de autoria total minha, para por em prática meu aprendizado e criatividade, está sendo desenvolvido para servir também como portifólio.</p>
 
 <a href="https://wa.me/5551991037123" target="_blank">
-        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="iconewhats" />
-      </a>
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="iconewhats" /> </a>
+<a href="https://www.linkedin.com/in/matheusbelzarenobernieri/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="iconelinkedin" /> </a>  
+  
+
 
 
