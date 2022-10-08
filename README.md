@@ -5,23 +5,33 @@
   <img src="https://img.shields.io/github/license/mbernieri/projectunderconstruction" alt="license" /> </a>
 
 
-### > Status: Developing 👷
+> ## Status: Developing 👷
 
-<p style >Projeto site de loja virtual em construção, totalmente criado por mim, desde o código, fotos, logo e marca.
+<p> Projeto site de loja virtual em construção, totalmente criado por mim, desde o código, fotos, logo e marca.
 
 O projeto terá todas as páginas (início, produtos, contato, sobre) desenvolvidas e funcionando.
 
 Se encontra atualmente apenas com html e css puro.
+  
 
-- Pretendo introduzir o Media Queries nas páginas para ficar de acordo com as Typical Device Breakpoints. Junto criarei o menu hamburguer para otimizar a visualização e responsividade em telas menores.
+### Sobre:  
+
+- Pretendo introduzir o Media Queries nas páginas para ficar de acordo com as Typical Device Breakpoints. Criarei menu hamburguer para otimizar a visualização e responsividade em telas menores.
 
 - Página de produtos vou estruturar com grid, criar sidebar e cards animados.
+  
+- Página de contato téra os meios de comunicação e formulário para captar informações de leads. Irei usar conceito de Flat Design para por em prática um desing mais limpo.
+  
+- Página sobre irei inserir um desenho vetorial para dar vida e contar como surgiu a idéia do projeto!
+  
+- Algumas demais idéias para o projeto estão em criação.  
 
-- Após será implementado Java Script e outras tecnologias como Bootstrap, React etc...
+- Será implementado Java Script e outras tecnologias como Bootstrap, React etc...
 
 - Ao final do projeto quero integrar um banco de dados hospedando em plataforma que permita.
 
-OBS: Projeto pessoal de autoria total minha, para por em prática meu aprendizado e criatividade, está sendo desenvolvido para servir também como portifólio.</p>
+### Observação: 
+Projeto pessoal de autoria total minha, para por em prática meu aprendizado e criatividade, está sendo desenvolvido para servir também como portifólio. </p>
 
 <a href="https://wa.me/5551991037123" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="iconewhats" /> </a>
