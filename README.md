@@ -9,7 +9,7 @@
 
 <p> Projeto site de loja virtual em construção, totalmente criado por mim, desde o código, fotos, logo e marca.
 
-O projeto conterá todas as páginas (início, produtos, contato, sobre) desenvolvidas e funcionando.
+O projeto terá todas as páginas (início, produtos, contato, sobre) desenvolvidas e funcionando.
 
 Se encontra atualmente apenas com html e css puro.
   
@@ -20,7 +20,7 @@ Se encontra atualmente apenas com html e css puro.
 
 - Página de produtos vou estruturar com grid, criar sidebar e cards animados.
   
-- Página de contato téra os meios de comunicação e formulário para captar informações de leads. Irei usar conceito de Flat Design para por em prática um desing mais limpo.
+- Página de contato terá os meios de comunicação e formulário para captar informações de leads. Irei usar conceito de Flat Design para por em prática um desing mais limpo.
   
 - Página sobre irei inserir um desenho vetorial para dar vida e contar como surgiu a idéia do projeto!
   
