@@ -31,7 +31,7 @@ Se encontra atualmente apenas com html e css puro.
 - Ao final do projeto quero integrar um banco de dados hospedando em plataforma que permita.
 
 ### Observação: 
-Projeto pessoal de autoria total minha, para por em prática meu aprendizado e criatividade, está sendo desenvolvido para servir também como portifólio. </p>
+Projeto pessoal de autoria totalmente minha, para por em prática meu aprendizado e criatividade, está sendo desenvolvido para servir também como portifólio. </p>
 
 <a href="https://wa.me/5551991037123" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="iconewhats" /> </a>
