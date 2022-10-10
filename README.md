@@ -9,7 +9,7 @@
 
 <p> Projeto site de loja virtual em construção, totalmente criado por mim, desde o código, fotos, logo e marca.
 
-O projeto terá todas as páginas (início, produtos, contato, sobre) desenvolvidas e funcionando.
+O projeto conterá todas as páginas (início, produtos, contato, sobre) desenvolvidas e funcionando.
 
 Se encontra atualmente apenas com html e css puro.
   
