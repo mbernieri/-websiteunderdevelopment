@@ -28,7 +28,7 @@ Se encontra atualmente apenas com html e css puro.
 
 - Será implementado Java Script e outras tecnologias como Bootstrap, React etc...
 
-- Ao final do projeto quero integrar um banco de dados hospedando em plataforma que permita.
+- Ao final irei integrar um banco de dados, hospedando o projeto em plataforma que permita essa integração.
 
 ### Observação: 
 Projeto pessoal de autoria totalmente minha, para por em prática meu aprendizado e criatividade, está sendo desenvolvido para servir também como portifólio. </p>
