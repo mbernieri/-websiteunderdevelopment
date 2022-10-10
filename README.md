@@ -16,7 +16,7 @@ Se encontra atualmente apenas com html e css puro.
 
 ### Sobre:  
 
-- Pretendo introduzir o Media Queries nas páginas para ficar de acordo com as Typical Device Breakpoints. Criarei menu hambúrguer para otimizar a visualização e responsividade em telas menores.
+- Pretendo introduzir o Media Queries nas páginas para ficar de acordo com as Typical Device Breakpoints. Criarei o menu hambúrguer para otimizar a visualização e responsividade em telas menores.
 
 - Página de produtos vou estruturar com grid, criar sidebar e cards animados.
   
