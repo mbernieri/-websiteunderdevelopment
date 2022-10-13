@@ -56,10 +56,10 @@ li a {
   width: 140px;
   height: auto;
   background-image: linear-gradient(to right, #434343 0%, black 100%);
-  transition: 0.9s;
+  transition: 0.8s;
 }
-
 li a:hover {
+  transform: scale(0.97);
   color: black;
   text-shadow: 0 0 15px rgb(42, 154, 206);
   background: linear-gradient(
@@ -138,6 +138,10 @@ li a:hover {
   color: white;
   text-transform: uppercase;
   border: solid white 3px;
+  transition: 1s;
+}
+.vejamais:hover {
+  transform: scale(1.1);
 }
 
 /* Action bottom */
