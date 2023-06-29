@@ -16,6 +16,7 @@ Se encontra atualmente apenas com html e css puro.
 
 - Pretendo introduzir o Media Queries nas páginas para ficar de acordo com as Typical Device Breakpoints. Criarei o menu hambúrguer para otimizar a visualização e responsividade em telas menores.
 
+- Logo vou recriar no Illustrator para não ficar no formato bitmap, e sim em vetor.
 - Página de produtos vou estruturar com grid, criar sidebar e cards animados.
 - Página de contato terá os meios de comunicação e formulário para captar informações de leads. Irei usar conceito de Flat Design para por em prática um design mais limpo.
 - Página sobre irei inserir um desenho vetorial para dar vida e contar como surgiu a idéia do projeto!
